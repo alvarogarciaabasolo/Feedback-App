@@ -1,0 +1,5 @@
+export const REGISTRATION = 'Registration'
+export const REGISTER = 'Register'
+export const CANCEL = 'Cancel'
+export const EMAIL = 'Email'
+export const PASSWORD = 'Password'
